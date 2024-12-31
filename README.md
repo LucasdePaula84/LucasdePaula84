@@ -12,7 +12,7 @@
 - 📚 **Estudando:** Análise de Dados com Python e SQL.
 - 💼 **Carreira:** Analista de PCP em uma empresa de Defesa Militar, com experiência em planejamento de produção.
 - 🚀 **Objetivos:** Trabalhar remotamente como analista de dados para empresas internacionais, especialmente nos EUA ou Austrália.
-- 🌍 **Interesses:** Inteligência Artificial, SpaceX, e Machine Learning.
+- 🌍 **Interesses:** Inteligência Artificial, Analise de Dados.
 
 ---
 
