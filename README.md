@@ -1,14 +1,14 @@
 <h1 align="center">👋 Olá, eu sou Lucas Eduardo de Paula</h1>
 
 <p align="center">
-  <b>📊 Analista de Dados e Engenheiro Mecânico</b><br>
+  <b>📊 Analista de Dados e Engenheiro de Produção</b><br>
   Apaixonado por tecnologia, ciência de dados e automação!
 </p>
 
 ---
 
 ### 🌟 Sobre mim
-- 🎓 **Formação:** Engenharia de Produção Mecânica.
+- 🎓 **Formação:** Engenharia de Produção Producao.
 - 📚 **Estudando:** Análise de Dados com Python e SQL.
 - 💼 **Carreira:** Analista de PCP em uma empresa de Defesa Militar, com experiência em planejamento de produção.
 - 🚀 **Objetivos:** Trabalhar remotamente como analista de dados para empresas internacionais, especialmente nos EUA ou Austrália.
